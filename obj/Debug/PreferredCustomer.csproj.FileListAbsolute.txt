@@ -1,0 +1,10 @@
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\bin\Debug\PreferredCustomer.exe.config
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\bin\Debug\PreferredCustomer.exe
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\bin\Debug\PreferredCustomer.pdb
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\obj\Debug\PreferredCustomer.csprojAssemblyReference.cache
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\obj\Debug\PreferredCustomer.Properties.Resources.resources
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\obj\Debug\PreferredCustomer.csproj.GenerateResource.cache
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\obj\Debug\PreferredCustomer.csproj.CoreCompileInputs.cache
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\obj\Debug\PreferredCustomer.exe
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\obj\Debug\PreferredCustomer.pdb
+C:\Users\Dusti\Desktop\TRU\Comp 2211\Assignments\Assignment5_CSharp_DustinKaban\PreferredCustomer\obj\Debug\PreferredCustomer.MainForm.resources
